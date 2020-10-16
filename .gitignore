@@ -1,0 +1,4 @@
+/.idea/
+/terraform/.terraform/plugins/darwin_amd64/
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.backup
